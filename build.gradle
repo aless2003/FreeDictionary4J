@@ -7,7 +7,7 @@ group 'com.github.aless2003'
 version '1'
 
 repositories {
-    mavenCentral()
+    mavenCentral(allowInsecureProtocol: true)
 }
 
 dependencies {
