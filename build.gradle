@@ -8,6 +8,12 @@ version '1'
 
 repositories {
     mavenCentral(allowInsecureProtocol: true)
+
+    maven {
+        url = "http://cache"
+        allowInsecureProtocol = true
+    }
+
 }
 
 dependencies {
