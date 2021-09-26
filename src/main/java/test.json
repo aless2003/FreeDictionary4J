@@ -1,0 +1,105 @@
+[
+  {
+    "word": "sing",
+    "phonetic": "sɪŋ",
+    "phonetics": [
+      {
+        "text": "sɪŋ",
+        "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/sing--_gb_1.mp3"
+      }
+    ],
+    "origin": "Old English singan (verb), of Germanic origin; related to Dutch zingen and German singen .",
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "definitions": [
+          {
+            "definition": "make musical sounds with the voice, especially words with a set tune.",
+            "example": "Bella sang to the baby",
+            "synonyms": [
+              "chant",
+              "intone",
+              "croon",
+              "carol",
+              "chorus",
+              "warble",
+              "trill",
+              "pipe",
+              "quaver",
+              "yodel",
+              "render",
+              "perform",
+              "belt out",
+              "troll"
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "make a high-pitched whistling or buzzing sound.",
+            "example": "the kettle was beginning to sing",
+            "synonyms": [],
+            "antonyms": []
+          },
+          {
+            "definition": "act as an informer to the police.",
+            "example": "as soon as he got put under pressure, he sang like a canary",
+            "synonyms": [
+              "inform (on someone)",
+              "tell tales (on someone)",
+              "squeal",
+              "rat on someone",
+              "blow the whistle on someone",
+              "peach (on someone)",
+              "snitch (on someone)",
+              "put the finger on someone",
+              "sell someone down the river",
+              "grass (on someone)",
+              "shop someone",
+              "rat someone out",
+              "finger someone",
+              "fink on someone",
+              "drop a/the dime on someone",
+              "pimp on someone"
+            ],
+            "antonyms": []
+          },
+          {
+            "definition": "recount or celebrate in poetry or other literature.",
+            "example": "poetry should sing the variety of the human race",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      },
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "an act or spell of singing.",
+            "example": "we asked him to come back and have a bit of a sing",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sing.",
+    "phonetics": [
+      {}
+    ],
+    "meanings": [
+      {
+        "partOfSpeech": "abbreviation",
+        "definitions": [
+          {
+            "definition": "singular.",
+            "synonyms": [],
+            "antonyms": []
+          }
+        ]
+      }
+    ]
+  }
+]
